@@ -1,1 +1,1 @@
-change
+print(1)
