@@ -1,9 +1,5 @@
-
-def check(a):
-    b = ""
-    for i in a:
-        if i.isalpha():
-            b+=i.lower()
-    return b
-print(check("NITHIN"))
-
+def sum(arg):  
+    total = 0  
+    for val in arg:  
+        total += val  
+    return total
