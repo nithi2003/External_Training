@@ -1,5 +1,3 @@
 # External_Training
 
-# unedited
-
-#changed
+# using Aws instance
