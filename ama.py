@@ -14,6 +14,6 @@ plt.plot(df["0.234"],df["0.567"])
 plt.title('Data Plot')
 plt.xlabel('X')
 plt.ylabel('Y')
-plt.savefig('plot.png')  # Save the plot as a PNG file
-plt.close()
+# plt.savefig('plot.png')  # Save the plot as a PNG file
+# plt.close()
 print("Plot saved as 'plot.png'")
